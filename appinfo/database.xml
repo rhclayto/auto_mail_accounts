@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<database>
+ <name>*dbname*</name>
+ <create>true</create>
+ <overwrite>false</overwrite>
+ <charset>utf8</charset>
+ <table>
+  <name>*dbprefix*ame_wildduck</name>
+  <declaration>
+    <field>
+      <name>user</name>
+      <type>text</type>
+      <notnull>true</notnull>
+      <length>100</length>
+    </field>
+    <field>
+      <name>wdid</name>
+      <type>text</type>
+      <notnull>true</notnull>
+      <length>100</length>
+    </field>
+  </declaration>
+ </table>
+</database>
