@@ -5,7 +5,7 @@
  <overwrite>false</overwrite>
  <charset>utf8</charset>
  <table>
-  <name>*dbprefix*ame_wildduck</name>
+  <name>*dbprefix*ama_wildduck</name>
   <declaration>
     <field>
       <name>user</name>
